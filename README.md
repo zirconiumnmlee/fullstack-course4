@@ -7,7 +7,7 @@ This repository contains all of the example source code used in the Coursera.org
 
 
 ## Frequently Asked Questions
-Please check our FAQ to see if a question you want to ask on the forums has been answered already. Here is the link to the FAQ:
+Please check our FAQ to see if a question you want to ask on the forums has been answered already. 
 
 [Frequently Asked Questions](FAQ.md)
 
